@@ -6,11 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset",
 				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FirstPerson/Testmap.umap",
 				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FX/Smoke_FX.uasset",
 				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FX/Smoke.uasset",
-				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FX/Smoke_Mat.uasset"
+				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/FX/Smoke_Mat.uasset",
+				"C:/Users/nikit_5q4mnop/Desktop/Github-work/Grapple-game/GrappleGame/Content/FirstPerson/Testmap.umap",
+				"C:/Users/nikit_5q4mnop/Desktop/Github-work/Grapple-game/GrappleGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/nikit_5q4mnop/Unreal_projects/Test/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset"
 			]
 		}
 	]
