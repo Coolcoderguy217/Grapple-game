@@ -72,3 +72,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GrappleGame/Intermediate/CachedAssetRegistry_0.bin
+GrappleGame/Intermediate/CachedAssetRegistryDiscovery.bin
+GrappleGame/Intermediate/ReimportCache/3688439234.bin
+GrappleGame/Saved/AutoScreenshot.png
+GrappleGame/Saved/Config/CrashReportClient/UECC-Windows-2E58EB43444A3B2D912072B89F988477/CrashReportClient.ini
+GrappleGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+GrappleGame/Saved/Logs/GrappleGame-backup-2026.03.24-22.48.49.log
+GrappleGame/Saved/Logs/GrappleGame.log
